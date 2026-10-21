@@ -1,0 +1,5 @@
+# VPS 节点相关，仅留本地，不上传
+vps-node-setup.ps1
+paste-on-vps.txt
+paste-on-vps-check.txt
+paste-on-vps*.txt
